@@ -1,2 +1,3 @@
-# github-example
-This repository is a demonstration of how to create a Github repository and to set it up
+# github
+This is the applied data science capstone project using Foursquare API to do data analysis
+
